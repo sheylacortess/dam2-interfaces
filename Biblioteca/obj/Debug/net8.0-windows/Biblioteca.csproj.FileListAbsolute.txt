@@ -1,0 +1,1 @@
+C:\Users\alumno\source\repos\dam2-interfaces\Biblioteca\obj\Debug\net8.0-windows\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig

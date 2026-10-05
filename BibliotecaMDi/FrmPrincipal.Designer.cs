@@ -1,4 +1,4 @@
-﻿namespace BibliotecaMDi
+﻿        namespace BibliotecaMDi
 {
     partial class FrmPrincipal
     {
@@ -35,8 +35,7 @@
             MnuConsulta = new ToolStripMenuItem();
             toolStripSeparator1 = new ToolStripSeparator();
             MnuSalir = new ToolStripMenuItem();
-            button1 = new Button();
-            button2 = new Button();
+            openFileDialog1 = new OpenFileDialog();
             MnuPrincipal.SuspendLayout();
             SuspendLayout();
             // 
@@ -60,7 +59,7 @@
             // 
             MnuAlta.Name = "MnuAlta";
             MnuAlta.ShortcutKeys = Keys.Control | Keys.A;
-            MnuAlta.Size = new Size(180, 22);
+            MnuAlta.Size = new Size(163, 22);
             MnuAlta.Text = "Alta";
             MnuAlta.Click += MnuAlta_Click;
             // 
@@ -68,50 +67,32 @@
             // 
             MnuConsulta.Name = "MnuConsulta";
             MnuConsulta.ShortcutKeys = Keys.Control | Keys.C;
-            MnuConsulta.Size = new Size(180, 22);
+            MnuConsulta.Size = new Size(163, 22);
             MnuConsulta.Text = "Consulta";
             MnuConsulta.Click += MnuConsulta_Click;
             // 
             // toolStripSeparator1
             // 
             toolStripSeparator1.Name = "toolStripSeparator1";
-            toolStripSeparator1.Size = new Size(177, 6);
+            toolStripSeparator1.Size = new Size(160, 6);
             // 
             // MnuSalir
             // 
             MnuSalir.Name = "MnuSalir";
             MnuSalir.ShortcutKeys = Keys.Control | Keys.S;
-            MnuSalir.Size = new Size(180, 22);
+            MnuSalir.Size = new Size(163, 22);
             MnuSalir.Text = "Salir";
             MnuSalir.Click += MnuSalir_Click;
             // 
-            // button1
+            // openFileDialog1
             // 
-            button1.Location = new Point(98, 193);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 3;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(238, 198);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 4;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            openFileDialog1.FileName = "openFileDialog1";
             // 
             // FrmPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button2);
-            Controls.Add(button1);
             Controls.Add(MnuPrincipal);
             IsMdiContainer = true;
             MainMenuStrip = MnuPrincipal;
@@ -131,7 +112,6 @@
         private ToolStripMenuItem MnuConsulta;
         private ToolStripSeparator toolStripSeparator1;
         private ToolStripMenuItem MnuSalir;
-        private Button button1;
-        private Button button2;
+        private OpenFileDialog openFileDialog1;
     }
 }

@@ -29,6 +29,7 @@
         /// 
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             MnuPrincipal = new MenuStrip();
             MnuFichero = new ToolStripMenuItem();
             MnuAlta = new ToolStripMenuItem();
@@ -36,7 +37,11 @@
             toolStripSeparator1 = new ToolStripSeparator();
             MnuSalir = new ToolStripMenuItem();
             openFileDialog1 = new OpenFileDialog();
+            statusStrip1 = new StatusStrip();
+            lblReloj = new ToolStripStatusLabel();
+            timer1 = new System.Windows.Forms.Timer(components);
             MnuPrincipal.SuspendLayout();
+            statusStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // MnuPrincipal
@@ -88,18 +93,43 @@
             // 
             openFileDialog1.FileName = "openFileDialog1";
             // 
+            // statusStrip1
+            // 
+            statusStrip1.Items.AddRange(new ToolStripItem[] { lblReloj });
+            statusStrip1.Location = new Point(0, 428);
+            statusStrip1.Name = "statusStrip1";
+            statusStrip1.Size = new Size(800, 22);
+            statusStrip1.TabIndex = 3;
+            statusStrip1.Text = "statusStrip1";
+            // 
+            // lblReloj
+            // 
+            lblReloj.Name = "lblReloj";
+            lblReloj.Size = new Size(754, 17);
+            lblReloj.Spring = true;
+            lblReloj.Text = "toolStripStatusLabel1";
+            // 
+            // timer1
+            // 
+            timer1.Enabled = true;
+            timer1.Interval = 1000;
+            // 
             // FrmPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(statusStrip1);
             Controls.Add(MnuPrincipal);
             IsMdiContainer = true;
             MainMenuStrip = MnuPrincipal;
             Name = "FrmPrincipal";
             Text = "FrmPrincipal";
+            Load += FrmPrincipal_Load;
             MnuPrincipal.ResumeLayout(false);
             MnuPrincipal.PerformLayout();
+            statusStrip1.ResumeLayout(false);
+            statusStrip1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -113,5 +143,8 @@
         private ToolStripSeparator toolStripSeparator1;
         private ToolStripMenuItem MnuSalir;
         private OpenFileDialog openFileDialog1;
+        private StatusStrip statusStrip1;
+        private ToolStripStatusLabel lblReloj;
+        private System.Windows.Forms.Timer timer1;
     }
 }

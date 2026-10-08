@@ -1,9 +1,7 @@
-namespace BibliotecaMDi
+namespace FormulariosHeredados
 {
     internal static class Program
     {
-
-        public static List<Libro> ListaLibros = new List<Libro>();
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
@@ -13,8 +11,7 @@ namespace BibliotecaMDi
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FrmPrincipal());
+            Application.Run(new FrmPadre());
         }
-        
     }
 }

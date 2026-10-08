@@ -9,6 +9,8 @@ namespace BibliotecaMDi
             InitializeComponent();
         }
 
+
+
         private void MnuAlta_Click(object sender, EventArgs e)
         {
             FrmAlta f = new FrmAlta();
@@ -28,5 +30,9 @@ namespace BibliotecaMDi
             Application.Exit();
         }
 
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            lblReloj.Text = DateTime.Now.ToLongTimeString();
+        }
     }
 }

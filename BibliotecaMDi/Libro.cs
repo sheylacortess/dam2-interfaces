@@ -11,13 +11,15 @@ namespace BibliotecaMDi
         private string titulo;
         private string autor;
         private string editorial;
+        private bool nuevo; 
         private string foto;
 
-        public Libro (string t, string a, string e, string f)
+        public Libro (string t, string a, string e,bool n, string f)
         {
             this.titulo = t;
             this.autor = a; 
             this.editorial = e; 
+            this.nuevo = n;
             this.foto = f;
         }
 
@@ -47,7 +49,23 @@ namespace BibliotecaMDi
         {
             return editorial;
         }
+        public void setNuevo(bool n) 
+        {
+            nuevo = n; 
+        }
+        public bool getNuevo() 
+        { 
+            return nuevo; 
+        }
 
+        public void setFoto(string f) 
+        { 
+            foto = f; 
+        }
+        public string getFoto() 
+        { 
+            return foto; 
+        }
 
 
     }

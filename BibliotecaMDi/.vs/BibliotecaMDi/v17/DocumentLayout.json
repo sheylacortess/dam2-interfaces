@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|c:\\users\\alumno\\source\\repos\\dam2-interfaces\\bibliotecamdi\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\frmconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:frmconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|c:\\users\\alumno\\source\\repos\\dam2-interfaces\\bibliotecamdi\\frmconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:frmconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|c:\\users\\alumno\\source\\repos\\dam2-interfaces\\bibliotecamdi\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|c:\\users\\alumno\\source\\repos\\dam2-interfaces\\bibliotecamdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E0129A-AEA2-4980-818A-5AA6C09ED90D}|BibliotecaMDi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAlta.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmAlta.cs",
+              "RelativeDocumentMoniker": "FrmAlta.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmAlta.cs",
+              "RelativeToolTip": "FrmAlta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:56:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:04:33.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmAlta.cs",
+              "RelativeDocumentMoniker": "FrmAlta.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:39:23.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vyIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:40:08.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConsulta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmConsulta.cs",
+              "RelativeDocumentMoniker": "FrmConsulta.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmConsulta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmConsulta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:36:17.491Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:33:15.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmConsulta.cs",
+              "RelativeDocumentMoniker": "FrmConsulta.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\dam2-interfaces\\BibliotecaMDi\\FrmConsulta.cs",
+              "RelativeToolTip": "FrmConsulta.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:41:28.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

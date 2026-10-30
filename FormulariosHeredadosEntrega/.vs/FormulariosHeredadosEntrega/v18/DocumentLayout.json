@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmConsultaTree.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaTree.cs",
+              "RelativeDocumentMoniker": "FrmConsultaTree.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaTree.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmConsultaTree.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:41:34.791Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

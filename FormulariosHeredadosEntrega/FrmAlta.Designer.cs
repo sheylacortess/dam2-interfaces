@@ -40,10 +40,10 @@
             chkVip = new CheckBox();
             openFileDialog1 = new OpenFileDialog();
             toolStrip1 = new ToolStrip();
-            lbxAlta = new ListBox();
             btnNuevo = new ToolStripButton();
             btnGuardar = new ToolStripButton();
             toolStripButton5 = new ToolStripButton();
+            lbxAlta = new ListBox();
             lblNombre = new Label();
             lblApellidos = new Label();
             lblCiudad = new Label();
@@ -56,11 +56,13 @@
             // 
             // picFoto
             // 
+            picFoto.BorderStyle = BorderStyle.FixedSingle;
             picFoto.Location = new Point(438, 85);
             picFoto.Name = "picFoto";
             picFoto.Size = new Size(212, 96);
             picFoto.TabIndex = 1;
             picFoto.TabStop = false;
+            picFoto.Click += picFoto_Click;
             // 
             // imageList1
             // 
@@ -131,15 +133,6 @@
             toolStrip1.TabIndex = 11;
             toolStrip1.Text = "toolStrip1";
             // 
-            // lbxAlta
-            // 
-            lbxAlta.FormattingEnabled = true;
-            lbxAlta.ItemHeight = 15;
-            lbxAlta.Location = new Point(34, 139);
-            lbxAlta.Name = "lbxAlta";
-            lbxAlta.Size = new Size(240, 184);
-            lbxAlta.TabIndex = 12;
-            // 
             // btnNuevo
             // 
             btnNuevo.Image = (Image)resources.GetObject("btnNuevo.Image");
@@ -150,6 +143,7 @@
             btnNuevo.Text = "Nuevo";
             btnNuevo.TextAlign = ContentAlignment.BottomCenter;
             btnNuevo.TextImageRelation = TextImageRelation.ImageAboveText;
+            btnNuevo.Click += btnNuevo_Click;
             // 
             // btnGuardar
             // 
@@ -161,6 +155,7 @@
             btnGuardar.Text = "Guardar";
             btnGuardar.TextAlign = ContentAlignment.BottomCenter;
             btnGuardar.TextImageRelation = TextImageRelation.ImageAboveText;
+            btnGuardar.Click += btnGuardar_Click;
             // 
             // toolStripButton5
             // 
@@ -171,6 +166,16 @@
             toolStripButton5.Text = "Borrar";
             toolStripButton5.TextAlign = ContentAlignment.BottomCenter;
             toolStripButton5.TextImageRelation = TextImageRelation.ImageAboveText;
+            toolStripButton5.Click += toolStripBtnBorrar_Click;
+            // 
+            // lbxAlta
+            // 
+            lbxAlta.FormattingEnabled = true;
+            lbxAlta.ItemHeight = 15;
+            lbxAlta.Location = new Point(34, 139);
+            lbxAlta.Name = "lbxAlta";
+            lbxAlta.Size = new Size(240, 184);
+            lbxAlta.TabIndex = 12;
             // 
             // lblNombre
             // 

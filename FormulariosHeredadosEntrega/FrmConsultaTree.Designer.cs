@@ -28,12 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "FrmConsultaTree";
+            treeView1 = new TreeView();
+            SuspendLayout();
+            // 
+            // treeView1
+            // 
+            treeView1.Location = new Point(75, 185);
+            treeView1.Name = "treeView1";
+            treeView1.Size = new Size(274, 206);
+            treeView1.TabIndex = 1;
+            // 
+            // FrmConsultaTree
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(treeView1);
+            Name = "FrmConsultaTree";
+            Text = "FrmConsultaTree";
+            Controls.SetChildIndex(treeView1, 0);
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TreeView treeView1;
     }
 }

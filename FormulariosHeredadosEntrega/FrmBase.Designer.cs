@@ -28,11 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             menuStrip1 = new MenuStrip();
             altaToolStripMenuItem = new ToolStripMenuItem();
             consultaListToolStripMenuItem = new ToolStripMenuItem();
             consultaTreeToolStripMenuItem = new ToolStripMenuItem();
             salirToolStripMenuItem = new ToolStripMenuItem();
+            imageList1 = new ImageList(components);
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -50,24 +52,34 @@
             altaToolStripMenuItem.Name = "altaToolStripMenuItem";
             altaToolStripMenuItem.Size = new Size(40, 20);
             altaToolStripMenuItem.Text = "Alta";
+            altaToolStripMenuItem.Click += altaToolStripMenuItem_Click;
             // 
             // consultaListToolStripMenuItem
             // 
             consultaListToolStripMenuItem.Name = "consultaListToolStripMenuItem";
             consultaListToolStripMenuItem.Size = new Size(87, 20);
             consultaListToolStripMenuItem.Text = "Consulta List";
+            consultaListToolStripMenuItem.Click += consultaListToolStripMenuItem_Click;
             // 
             // consultaTreeToolStripMenuItem
             // 
             consultaTreeToolStripMenuItem.Name = "consultaTreeToolStripMenuItem";
             consultaTreeToolStripMenuItem.Size = new Size(91, 20);
             consultaTreeToolStripMenuItem.Text = "Consulta Tree";
+            consultaTreeToolStripMenuItem.Click += consultaTreeToolStripMenuItem_Click;
             // 
             // salirToolStripMenuItem
             // 
             salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             salirToolStripMenuItem.Size = new Size(41, 20);
             salirToolStripMenuItem.Text = "Salir";
+            salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
+            // 
+            // imageList1
+            // 
+            imageList1.ColorDepth = ColorDepth.Depth32Bit;
+            imageList1.ImageSize = new Size(16, 16);
+            imageList1.TransparentColor = Color.Transparent;
             // 
             // FrmBase
             // 
@@ -91,5 +103,6 @@
         private ToolStripMenuItem consultaListToolStripMenuItem;
         private ToolStripMenuItem consultaTreeToolStripMenuItem;
         private ToolStripMenuItem salirToolStripMenuItem;
+        private ImageList imageList1;
     }
 }

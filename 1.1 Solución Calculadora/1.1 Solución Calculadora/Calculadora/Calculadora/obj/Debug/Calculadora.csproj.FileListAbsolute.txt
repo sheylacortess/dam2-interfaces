@@ -1,0 +1,29 @@
+c:\users\alumno\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\alumno\Desktop\Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.FrmCalculadora.resources
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.FrmCalculadora.resources
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Sheyla\source\repos\dam2-interfaces\1.1 Solución Calculadora\1.1 Solución Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

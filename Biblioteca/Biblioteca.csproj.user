@@ -1,8 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <ItemGroup>
-        <Compile Update="Form1.cs">
-            <SubType>Form</SubType>
-        </Compile>
-    </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Biblioteca\FrmHijoAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Biblioteca\FrmHijoConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Biblioteca\FrmHijoPpal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Biblioteca\FrmPadreBiblioteca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Practica4_ClientesBicicletas\FrmAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Practica4_ClientesBicicletas\FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Practica4_ClientesBicicletas\FrmConsultaList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Practica4_ClientesBicicletas\FrmConsultaTree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>

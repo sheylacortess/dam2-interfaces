@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\1.1 Soluci\u00F3n Calculadora\\1.1 Soluci\u00F3n Calculadora\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE76B46-6935-4CE3-8A53-05B7C04C1454}|Calculadora\\Calculadora.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\1.1 soluci\u00F3n calculadora\\1.1 soluci\u00F3n calculadora\\calculadora\\calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE76B46-6935-4CE3-8A53-05B7C04C1454}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE76B46-6935-4CE3-8A53-05B7C04C1454}|Calculadora\\Calculadora.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\1.1 soluci\u00F3n calculadora\\1.1 soluci\u00F3n calculadora\\calculadora\\calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE76B46-6935-4CE3-8A53-05B7C04C1454}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCalculadora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\1.1 Soluci\u00F3n Calculadora\\1.1 Soluci\u00F3n Calculadora\\Calculadora\\Calculadora\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\FrmCalculadora.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\1.1 Soluci\u00F3n Calculadora\\1.1 Soluci\u00F3n Calculadora\\Calculadora\\Calculadora\\FrmCalculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\FrmCalculadora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:41:01.016Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\1.1 Soluci\u00F3n Calculadora\\1.1 Soluci\u00F3n Calculadora\\Calculadora\\Calculadora\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\FrmCalculadora.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\1.1 Soluci\u00F3n Calculadora\\1.1 Soluci\u00F3n Calculadora\\Calculadora\\Calculadora\\FrmCalculadora.cs",
+              "RelativeToolTip": "Calculadora\\FrmCalculadora.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:40:33.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormulariosHeredadosEntrega")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c825053df82b86b263edc5ef124fc36e582517")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90aa74cd5bb2c0abb45ade66402871ceb49caf8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormulariosHeredadosEntrega")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormulariosHeredadosEntrega")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

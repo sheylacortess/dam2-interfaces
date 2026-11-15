@@ -50,6 +50,7 @@
             lblEmail = new Label();
             lblComentario = new Label();
             lblVip = new Label();
+            toolStripButton3 = new ToolStripButton();
             ((System.ComponentModel.ISupportInitialize)picFoto).BeginInit();
             toolStrip1.SuspendLayout();
             SuspendLayout();
@@ -57,9 +58,10 @@
             // picFoto
             // 
             picFoto.BorderStyle = BorderStyle.FixedSingle;
-            picFoto.Location = new Point(438, 85);
+            picFoto.Location = new Point(813, 181);
+            picFoto.Margin = new Padding(6, 6, 6, 6);
             picFoto.Name = "picFoto";
-            picFoto.Size = new Size(212, 96);
+            picFoto.Size = new Size(392, 203);
             picFoto.TabIndex = 1;
             picFoto.TabStop = false;
             picFoto.Click += picFoto_Click;
@@ -76,46 +78,52 @@
             // 
             // txtNombre
             // 
-            txtNombre.Location = new Point(439, 187);
+            txtNombre.Location = new Point(815, 399);
+            txtNombre.Margin = new Padding(6, 6, 6, 6);
             txtNombre.Name = "txtNombre";
-            txtNombre.Size = new Size(211, 23);
+            txtNombre.Size = new Size(388, 39);
             txtNombre.TabIndex = 5;
             // 
             // txtApellidos
             // 
-            txtApellidos.Location = new Point(439, 216);
+            txtApellidos.Location = new Point(815, 461);
+            txtApellidos.Margin = new Padding(6, 6, 6, 6);
             txtApellidos.Name = "txtApellidos";
-            txtApellidos.Size = new Size(211, 23);
+            txtApellidos.Size = new Size(388, 39);
             txtApellidos.TabIndex = 6;
             // 
             // txtCiudad
             // 
-            txtCiudad.Location = new Point(439, 245);
+            txtCiudad.Location = new Point(815, 523);
+            txtCiudad.Margin = new Padding(6, 6, 6, 6);
             txtCiudad.Name = "txtCiudad";
-            txtCiudad.Size = new Size(211, 23);
+            txtCiudad.Size = new Size(388, 39);
             txtCiudad.TabIndex = 7;
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(439, 274);
+            txtEmail.Location = new Point(815, 585);
+            txtEmail.Margin = new Padding(6, 6, 6, 6);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(211, 23);
+            txtEmail.Size = new Size(388, 39);
             txtEmail.TabIndex = 8;
             // 
             // txtComentario
             // 
-            txtComentario.Location = new Point(439, 303);
+            txtComentario.Location = new Point(815, 646);
+            txtComentario.Margin = new Padding(6, 6, 6, 6);
             txtComentario.Multiline = true;
             txtComentario.Name = "txtComentario";
-            txtComentario.Size = new Size(211, 54);
+            txtComentario.Size = new Size(388, 111);
             txtComentario.TabIndex = 9;
             // 
             // chkVip
             // 
             chkVip.AutoSize = true;
-            chkVip.Location = new Point(439, 376);
+            chkVip.Location = new Point(815, 802);
+            chkVip.Margin = new Padding(6, 6, 6, 6);
             chkVip.Name = "chkVip";
-            chkVip.Size = new Size(15, 14);
+            chkVip.Size = new Size(28, 27);
             chkVip.TabIndex = 10;
             chkVip.UseVisualStyleBackColor = true;
             // 
@@ -126,10 +134,11 @@
             // toolStrip1
             // 
             toolStrip1.ImageScalingSize = new Size(34, 34);
-            toolStrip1.Items.AddRange(new ToolStripItem[] { btnNuevo, btnGuardar, toolStripButton5 });
-            toolStrip1.Location = new Point(0, 24);
+            toolStrip1.Items.AddRange(new ToolStripItem[] { btnNuevo, btnGuardar, toolStripButton5, toolStripButton3 });
+            toolStrip1.Location = new Point(0, 44);
             toolStrip1.Name = "toolStrip1";
-            toolStrip1.Size = new Size(800, 56);
+            toolStrip1.Padding = new Padding(0, 0, 4, 0);
+            toolStrip1.Size = new Size(1486, 76);
             toolStrip1.TabIndex = 11;
             toolStrip1.Text = "toolStrip1";
             // 
@@ -139,7 +148,7 @@
             btnNuevo.ImageAlign = ContentAlignment.TopCenter;
             btnNuevo.ImageTransparentColor = Color.Magenta;
             btnNuevo.Name = "btnNuevo";
-            btnNuevo.Size = new Size(46, 53);
+            btnNuevo.Size = new Size(89, 70);
             btnNuevo.Text = "Nuevo";
             btnNuevo.TextAlign = ContentAlignment.BottomCenter;
             btnNuevo.TextImageRelation = TextImageRelation.ImageAboveText;
@@ -151,7 +160,7 @@
             btnGuardar.ImageAlign = ContentAlignment.TopCenter;
             btnGuardar.ImageTransparentColor = Color.Magenta;
             btnGuardar.Name = "btnGuardar";
-            btnGuardar.Size = new Size(53, 53);
+            btnGuardar.Size = new Size(102, 70);
             btnGuardar.Text = "Guardar";
             btnGuardar.TextAlign = ContentAlignment.BottomCenter;
             btnGuardar.TextImageRelation = TextImageRelation.ImageAboveText;
@@ -162,7 +171,7 @@
             toolStripButton5.Image = (Image)resources.GetObject("toolStripButton5.Image");
             toolStripButton5.ImageTransparentColor = Color.Magenta;
             toolStripButton5.Name = "toolStripButton5";
-            toolStripButton5.Size = new Size(43, 53);
+            toolStripButton5.Size = new Size(82, 70);
             toolStripButton5.Text = "Borrar";
             toolStripButton5.TextAlign = ContentAlignment.BottomCenter;
             toolStripButton5.TextImageRelation = TextImageRelation.ImageAboveText;
@@ -171,71 +180,86 @@
             // lbxAlta
             // 
             lbxAlta.FormattingEnabled = true;
-            lbxAlta.ItemHeight = 15;
-            lbxAlta.Location = new Point(34, 139);
+            lbxAlta.Location = new Point(63, 297);
+            lbxAlta.Margin = new Padding(6, 6, 6, 6);
             lbxAlta.Name = "lbxAlta";
-            lbxAlta.Size = new Size(240, 184);
+            lbxAlta.Size = new Size(442, 388);
             lbxAlta.TabIndex = 12;
             // 
             // lblNombre
             // 
             lblNombre.AutoSize = true;
-            lblNombre.Location = new Point(310, 192);
+            lblNombre.Location = new Point(576, 410);
+            lblNombre.Margin = new Padding(6, 0, 6, 0);
             lblNombre.Name = "lblNombre";
-            lblNombre.Size = new Size(51, 15);
+            lblNombre.Size = new Size(102, 32);
             lblNombre.TabIndex = 13;
             lblNombre.Text = "Nombre";
             // 
             // lblApellidos
             // 
             lblApellidos.AutoSize = true;
-            lblApellidos.Location = new Point(310, 224);
+            lblApellidos.Location = new Point(576, 478);
+            lblApellidos.Margin = new Padding(6, 0, 6, 0);
             lblApellidos.Name = "lblApellidos";
-            lblApellidos.Size = new Size(56, 15);
+            lblApellidos.Size = new Size(112, 32);
             lblApellidos.TabIndex = 14;
             lblApellidos.Text = "Apellidos";
             // 
             // lblCiudad
             // 
             lblCiudad.AutoSize = true;
-            lblCiudad.Location = new Point(310, 253);
+            lblCiudad.Location = new Point(576, 540);
+            lblCiudad.Margin = new Padding(6, 0, 6, 0);
             lblCiudad.Name = "lblCiudad";
-            lblCiudad.Size = new Size(45, 15);
+            lblCiudad.Size = new Size(89, 32);
             lblCiudad.TabIndex = 15;
             lblCiudad.Text = "Ciudad";
             // 
             // lblEmail
             // 
             lblEmail.AutoSize = true;
-            lblEmail.Location = new Point(310, 277);
+            lblEmail.Location = new Point(576, 591);
+            lblEmail.Margin = new Padding(6, 0, 6, 0);
             lblEmail.Name = "lblEmail";
-            lblEmail.Size = new Size(41, 15);
+            lblEmail.Size = new Size(82, 32);
             lblEmail.TabIndex = 16;
             lblEmail.Text = "e-mail";
             // 
             // lblComentario
             // 
             lblComentario.AutoSize = true;
-            lblComentario.Location = new Point(310, 308);
+            lblComentario.Location = new Point(576, 657);
+            lblComentario.Margin = new Padding(6, 0, 6, 0);
             lblComentario.Name = "lblComentario";
-            lblComentario.Size = new Size(70, 15);
+            lblComentario.Size = new Size(139, 32);
             lblComentario.TabIndex = 17;
             lblComentario.Text = "Comentario";
             // 
             // lblVip
             // 
             lblVip.AutoSize = true;
-            lblVip.Location = new Point(315, 376);
+            lblVip.Location = new Point(585, 802);
+            lblVip.Margin = new Padding(6, 0, 6, 0);
             lblVip.Name = "lblVip";
-            lblVip.Size = new Size(24, 15);
+            lblVip.Size = new Size(49, 32);
             lblVip.TabIndex = 18;
             lblVip.Text = "Vip";
             // 
+            // toolStripButton3
+            // 
+            toolStripButton3.DisplayStyle = ToolStripItemDisplayStyle.Image;
+            toolStripButton3.Image = (Image)resources.GetObject("toolStripButton3.Image");
+            toolStripButton3.ImageTransparentColor = Color.Magenta;
+            toolStripButton3.Name = "toolStripButton3";
+            toolStripButton3.Size = new Size(46, 70);
+            toolStripButton3.Text = "toolStripButton3";
+            // 
             // FrmAlta
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1486, 960);
             Controls.Add(lblVip);
             Controls.Add(lblComentario);
             Controls.Add(lblEmail);
@@ -251,6 +275,7 @@
             Controls.Add(txtApellidos);
             Controls.Add(txtNombre);
             Controls.Add(picFoto);
+            Margin = new Padding(11, 13, 11, 13);
             Name = "FrmAlta";
             Text = "FrmAlta";
             Controls.SetChildIndex(picFoto, 0);
@@ -300,5 +325,6 @@
         private Label lblEmail;
         private Label lblComentario;
         private Label lblVip;
+        private ToolStripButton toolStripButton3;
     }
 }

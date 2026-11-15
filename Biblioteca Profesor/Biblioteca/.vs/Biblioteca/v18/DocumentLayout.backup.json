@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\Biblioteca Profesor\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCFEB8B-C34D-437B-AD87-77D336784391}|Biblioteca.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\biblioteca profesor\\biblioteca\\frmpadrebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCFEB8B-C34D-437B-AD87-77D336784391}|Biblioteca.csproj|solutionrelative:frmpadrebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCFEB8B-C34D-437B-AD87-77D336784391}|Biblioteca.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\biblioteca profesor\\biblioteca\\frmpadrebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CCFEB8B-C34D-437B-AD87-77D336784391}|Biblioteca.csproj|solutionrelative:frmpadrebiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPadreBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\Biblioteca Profesor\\Biblioteca\\FrmPadreBiblioteca.cs",
+              "RelativeDocumentMoniker": "FrmPadreBiblioteca.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\Biblioteca Profesor\\Biblioteca\\FrmPadreBiblioteca.cs",
+              "RelativeToolTip": "FrmPadreBiblioteca.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwC8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T21:27:55.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPadreBiblioteca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\Biblioteca Profesor\\Biblioteca\\FrmPadreBiblioteca.cs",
+              "RelativeDocumentMoniker": "FrmPadreBiblioteca.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\Biblioteca Profesor\\Biblioteca\\FrmPadreBiblioteca.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPadreBiblioteca.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T21:27:45.903Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+C:\Users\alumno\Source\Repos\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\alumno\Source\Repos\Trivial\bin\Debug\Trivial.exe
+C:\Users\alumno\Source\Repos\Trivial\bin\Debug\Trivial.pdb
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.exe
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.pdb
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.FrmTrivial.resources
+C:\Users\alumno\Source\Repos\Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+Z:\Trivial\bin\Debug\Trivial.exe.config
+Z:\Trivial\bin\Debug\Trivial.exe
+Z:\Trivial\bin\Debug\Trivial.pdb
+Z:\Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+Z:\Trivial\obj\Debug\Trivial.FrmTrivial.resources
+Z:\Trivial\obj\Debug\Trivial.Properties.Resources.resources
+Z:\Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+Z:\Trivial\obj\Debug\Trivial.exe
+Z:\Trivial\obj\Debug\Trivial.pdb
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\bin\Debug\Trivial.exe
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\bin\Debug\Trivial.pdb
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\obj\Debug\Trivial.FrmTrivial.resources
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\obj\Debug\Trivial.exe
+C:\Users\aaesa\Desktop\Asignaturas\DesarrolloInterfaces\Trivial\obj\Debug\Trivial.pdb
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\bin\Debug\Trivial.exe.config
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\bin\Debug\Trivial.exe
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\bin\Debug\Trivial.pdb
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.FrmTrivial.resources
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.exe
+C:\Users\Sheyla\source\repos\dam2-interfaces\Trivial Sol\Trivial Sol\obj\Debug\Trivial.pdb

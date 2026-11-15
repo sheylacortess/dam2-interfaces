@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmconsultatree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmconsultalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmconsultalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmconsultalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmconsultalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|c:\\users\\sheyla\\source\\repos\\dam2-interfaces\\formulariosheredadosentrega\\frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85A6471-8F3D-4340-9988-4A961AA22259}|FormulariosHeredadosEntrega.csproj|solutionrelative:frmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +55,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmAlta.cs",
+              "RelativeDocumentMoniker": "FrmAlta.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T22:11:58.632Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAlta.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmAlta.cs",
+              "RelativeDocumentMoniker": "FrmAlta.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmAlta.cs",
+              "RelativeToolTip": "FrmAlta.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T22:06:39.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConsultaTree.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaTree.cs",
+              "RelativeDocumentMoniker": "FrmConsultaTree.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaTree.cs",
+              "RelativeToolTip": "FrmConsultaTree.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T22:05:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T22:03:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T22:03:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmConsultaList.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaList.cs",
+              "RelativeDocumentMoniker": "FrmConsultaList.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaList.cs",
+              "RelativeToolTip": "FrmConsultaList.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T21:59:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBase.cs",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmBase.cs",
+              "RelativeDocumentMoniker": "FrmBase.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmBase.cs",
+              "RelativeToolTip": "FrmBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T21:58:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmConsultaList.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaList.cs",
+              "RelativeDocumentMoniker": "FrmConsultaList.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaList.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmConsultaList.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T21:51:17.63Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBase.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmBase.cs",
+              "RelativeDocumentMoniker": "FrmBase.cs",
+              "ToolTip": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmBase.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmBase.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T21:50:31.125Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FrmConsultaTree.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Sheyla\\source\\repos\\dam2-interfaces\\FormulariosHeredadosEntrega\\FrmConsultaTree.cs",
               "RelativeDocumentMoniker": "FrmConsultaTree.cs",

@@ -1,0 +1,13 @@
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.csprojAssemblyReference.cache
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.FrmAlta.resources
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.FrmClientes.resources
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.FrmConsultaList.resources
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.FrmConsultaTree.resources
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.csproj.GenerateResource.cache
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.Properties.Resources.resources
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\bin\Debug\Practica4_ClientesBicicletas.exe.config
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\bin\Debug\Practica4_ClientesBicicletas.exe
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\bin\Debug\Practica4_ClientesBicicletas.pdb
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.exe
+C:\Users\alumno\Source\Repos\Practica4_ClientesBicicletas\obj\Debug\Practica4_ClientesBicicletas.pdb
